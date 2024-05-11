@@ -34,6 +34,7 @@ Don't forget to give the project a star! Thanks again!
 ## Used cars data analysis App | How to run
 
 1)  Install these libraries before running the project
+
 	i. numpy
 
 	ii. seaborn
