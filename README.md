@@ -31,6 +31,22 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Used cars data analysis App | How to run
+
+1)  Install these libraries before running the project
+	numpy
+	seaborn
+	scipy
+	matplotlib
+	PyQt5
+ statsmodels
+      Using this command on command prompt : pip install numpy seaborn scipy matplotlib PyQt5 statsmodels
+
+3)  Run the Prob project.py file to run the project. Prob.py file is the interface file for the desktop app, no need to run that file.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Used cars data analysis App | ScreenShots
  
   ### Pie charts
